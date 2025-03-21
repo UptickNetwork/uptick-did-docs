@@ -5,7 +5,6 @@
 </p>
 
 <br>
-
 <p align="center">
    <a href="https://github.com/0xPolygonID/docs/network/members"><img src="https://img.shields.io/github/forks/0xPolygonID/docs?style=social"></a>
    <img src="https://img.shields.io/github/stars/0xPolygonID/docs?style=social">
